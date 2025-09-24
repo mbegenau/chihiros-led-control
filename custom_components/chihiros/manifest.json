@@ -63,6 +63,10 @@
       "connectable": true
     },
     {
+      "local_name": "DYSL60*",
+      "connectable": true
+    },
+    {
       "local_name": "DYLED*",
       "connectable": true
     },

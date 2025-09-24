@@ -54,7 +54,7 @@ class ChihirosLightEntity(
     LightEntity,
     RestoreEntity,
 ):
-    """Representation of Chihiros device."""
+    """Representation of a Chihiros device."""
 
     _attr_assumed_state = True
     _attr_should_poll = False
